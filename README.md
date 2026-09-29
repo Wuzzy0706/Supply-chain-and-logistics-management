@@ -28,3 +28,13 @@ Digital twin concept: using models to simulate supply chain performance under di
 
 ## Data Storytelling and Business Communication
 Translate complex model results into business language and explain them clearly to non-technical management. Propose actionable strategic recommendations based on analytical findings (e.g., adjusting replenishment strategies in a certain region, reallocating supplier share). Use data storytelling to drive decisions rather than letting analysis stop at the report level.
+
+## The best data visualization software
+Microsoft Power BI: Best for business intelligence (BI)  
+Tableau: Best for interactive charts  
+Qlik Sense: Best for artificial intelligence (AI)  
+Klipfolio: Best for custom dashboards  
+Looker: Best for visualization options  
+Zoho Analytics: Best for Zoho users  
+Domo: Best for custom apps  
+
